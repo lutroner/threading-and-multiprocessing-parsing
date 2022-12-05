@@ -1,4 +1,4 @@
-# Модули ```threading``` и ```multiprocessing``` для ускорения парсинга с Webdriver в Python
+# Применение threading и multiprocessing для ускорения парсинга с Selenium Webdriver в Python
 
 ## Описание
 Пример парсинга сайта [coinmarketcap](https://coinmarketcap.com) с использованием ```Selenium Webdriver``` с применением 3 различных подходов:
